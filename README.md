@@ -55,7 +55,7 @@ Open the notebook in Google Colab
 
 You can directly open the notebook with the link:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1idp2HvP1VXPzA-ChW70qmbKz4Cq9DaTI#scrollTo=oYbze_Weru7I)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1idp2HvP1VXPzA-ChW70qmbKz4Cq9DaTI)
 
 If dataset is not included, download from Kaggle link above and place it in the data/ folder.
 
