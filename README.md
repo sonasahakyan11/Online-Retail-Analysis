@@ -66,5 +66,6 @@ Online-Retail-Analysis/
 ├─ Online_Retail_Analysis.ipynb
 ├─ data/
 │    └─ Online_Retail_II.xlsx
-├─ README.md
-└─ images/   # Optional: saved plots/screenshots
+
+└─   README.md
+
