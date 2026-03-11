@@ -6,7 +6,7 @@ Explore the UK Online Retail II dataset to generate actionable business insights
 
 ## Dataset
 - Source: [Kaggle - Online Retail II](https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset)
-- Format: Excel file, transactional data with Invoice, StockCode,  Quantity, Description, Quantity, Price, Customer ID, Country, Invoice Date
+- Format: Excel file, transactional data with Invoice, StockCode, Description, Quantity, Price, Customer ID, Country, Invoice Date
 - Size: ~500,000 transactions
 
 ### Dataset Columns
