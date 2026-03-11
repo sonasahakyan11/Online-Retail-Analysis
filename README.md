@@ -55,7 +55,7 @@ Open the notebook in Google Colab
 
 You can directly open the notebook with the link:
 
-https://colab.research.google.com/github/<your-username>/Online-Retail-Analysis/blob/main/Online_Retail_Analysis.ipynb
+[![Open In Colab] https://colab.research.google.com/github/<your-username>/Online-Retail-Analysis/blob/main/Online_Retail_Analysis.ipynb
 
 If dataset is not included, download from Kaggle link above and place it in the data/ folder.
 
